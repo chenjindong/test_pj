@@ -1,3 +1,6 @@
 [submodule "pycharm"]
 	path = pycharm
 	url = https://github.com/chenjindong/pycharm.git
+[submodule "3rd/pycharm"]
+	path = 3rd/pycharm
+	url = https://github.com/chenjindong/pycharm.git
